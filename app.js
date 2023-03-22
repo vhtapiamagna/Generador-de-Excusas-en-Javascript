@@ -7,7 +7,7 @@ window.onload = () => {
   });
   
   
-console.log("Hello Rigo from the console!");
+
 };
 
 
